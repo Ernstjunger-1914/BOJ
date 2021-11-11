@@ -14,6 +14,5 @@ int main() {
     } else {
       printf("0\n");
     }
-
     return 0;
 }
